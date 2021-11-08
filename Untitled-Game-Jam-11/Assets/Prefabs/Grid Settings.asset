@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 333002b0cc3048e6820dace75fc86e04, type: 3}
+  m_Name: Grid Settings
+  m_EditorClassIdentifier: 
+  difficulty: 3
+  width: 33
+  height: 21
+  deadZoneSize: 5
+  _minRange: 1
+  _maxRange: 2
+  stepStopChance: 0.5
+  _minComponents: 1
+  _maxComponents: 2
+  componentStopChance: 0.2

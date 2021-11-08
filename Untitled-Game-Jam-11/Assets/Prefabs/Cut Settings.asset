@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c13d8f4128e49afa4cc641f24ff71cf, type: 3}
+  m_Name: Cut Settings
+  m_EditorClassIdentifier: 
+  horizontalCutFractions:
+  - 0.05882353
+  - 0.11764706
+  - 0.1764706
+  - 0.23529412
+  - 0.29411766
+  - 0.3529412
+  - 0.4117647
+  - 0.47058824
+  - 0.5294118
+  - 0.5882353
+  - 0.64705884
+  - 0.7058824
+  - 0.7647059
+  - 0.8235294
+  - 0.88235295
+  - 0.9411765
+  verticalCutFractions:
+  - 0.09090909
+  - 0.18181819
+  - 0.27272728
+  - 0.36363637
+  - 0.45454547
+  - 0.54545456
+  - 0.6363636
+  - 0.72727275
+  - 0.8181818
+  - 0.90909094
+  horizontalCuts:
+  - 0.9411765
+  - 1.882353
+  - 2.8235295
+  - 3.764706
+  - 4.7058825
+  - 5.647059
+  - 6.5882354
+  - 7.529412
+  - 8.470589
+  - 9.411765
+  - 10.3529415
+  - 11.294118
+  - 12.235294
+  - 13.176471
+  - 14.117647
+  - 15.058824
+  verticalCuts:
+  - 0.90909094
+  - 1.8181819
+  - 2.7272727
+  - 3.6363637
+  - 4.5454545
+  - 5.4545455
+  - 6.363636
+  - 7.2727275
+  - 8.181818
+  - 9.090909
+  wallWidth: 16
+  wallHeight: 10
+  doOffset: 0
+  maxCutOffset: 0.1
