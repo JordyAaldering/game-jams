@@ -1,0 +1,21 @@
+# Ignore meta files
+*.meta
+# But not source files with postfix
+!*.*.meta
+
+# IDE generated folders
+.vs/
+.vscode/
+.idea/
+
+# Generated folders
+[Bb]uilds/
+[Oo]bj/
+[Ll]ibrary/
+[Ll]ogs/
+[Tt]emp/
+
+# Generated solution and project files
+*.sln
+*.csproj
+*.unityproj
