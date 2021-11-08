@@ -1,0 +1,3 @@
+[submodule "Weekly-Game-Jam-98/Packages/2d-extras"]
+    path = Weekly-Game-Jam-98/Packages/2d-extras
+    url = https://github.com/Unity-Technologies/2d-extras.git
