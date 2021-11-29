@@ -15,6 +15,9 @@
 [Ll]ogs/
 [Tt]emp/
 
+# Generated TextMesh Pro folder
+TextMesh Pro/
+
 # Generated solution and project files
 *.sln
 *.csproj
